@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvinguts a la _pre_-web de la Fundació MONA
 
 You can use the [editor on GitHub](https://github.com/GusBravo/funmona/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
